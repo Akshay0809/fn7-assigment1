@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fn7-todo/static/css/main.a38bbc65.css",
+    "main.js": "/fn7-todo/static/js/main.9b009034.js",
+    "static/js/787.2843ca88.chunk.js": "/fn7-todo/static/js/787.2843ca88.chunk.js",
+    "index.html": "/fn7-todo/index.html",
+    "main.a38bbc65.css.map": "/fn7-todo/static/css/main.a38bbc65.css.map",
+    "main.9b009034.js.map": "/fn7-todo/static/js/main.9b009034.js.map",
+    "787.2843ca88.chunk.js.map": "/fn7-todo/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a38bbc65.css",
+    "static/js/main.9b009034.js"
+  ]
+}
